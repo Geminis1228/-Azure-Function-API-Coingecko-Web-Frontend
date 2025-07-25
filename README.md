@@ -1,11 +1,16 @@
 # -Azure-Function-API-Coingecko-Web-Frontend🚀 Consultor de Precios de Criptomonedas
 Una aplicación web completa que permite consultar precios en tiempo real de criptomonedas usando Azure Functions y la API de CoinGecko.
+
 📋 Características
 
 🔍 Consulta precios de 8 criptomonedas populares
+
 💱 Precios en USD y MXN
+
 🎨 Interfaz moderna y responsiva
+
 ⚡ Respuesta rápida con Azure Functions
+
 🔒 CORS configurado para desarrollo y producción
 
 🛠️ Tecnologías Utilizadas
